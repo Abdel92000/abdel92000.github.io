@@ -3,7 +3,7 @@
 <h1 align="center">🌐 Bienvenue sur mon Portfolio GitHub Pages</h1>
 
 <p align="center">
-  <img src="https://abdel92000.github.io/imgProfil.jpg" alt="Rahal Abdelghani" width="150" style="border-radius:50%">
+  <img src="/imgAbdelghani.JPG" alt="Rahal Abdelghani" width="150" style="border-radius:50%">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🚀 Mon site GitHub Pages
 
-👉 [🔗 Visiter mon site](https://abdel92000.github.io)
+👉 [🔗 Visiter mon site](https://abdelghani-dev.fr)
 
 ---
 
